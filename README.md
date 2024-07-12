@@ -21,7 +21,7 @@ Hello, I'm Jason Layton! I'm a cybersecurity enthusiast transitioning from a dec
 - Home Lab: Detailed setup for cybersecurity experimentation and learning
 
 ## 📜 Certifications
-- [Certification 1]
+- Security+ CE (Sec+) CompTIA
 - [Certification 2]
 
 ## 🌐 Connect with Me
