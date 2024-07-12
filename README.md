@@ -27,7 +27,7 @@ Hello, I'm Jason Layton! I'm a cybersecurity enthusiast transitioning from a dec
 - [Certification 2]
 
 ## 🌐 Connect with Me
-- [LinkedIn]:https://www.linkedin.com/in/jason-layton
+- [LinkedIn](https://www.linkedin.com/in/jason-layton)
 - Email: tannerlayton01@gmail.com
 
 ## 💼 Career Goals
