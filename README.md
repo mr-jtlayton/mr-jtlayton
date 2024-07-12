@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 Hello, I'm Jason Layton! I'm a cybersecurity enthusiast transitioning from a decade-long career in Electronic Warfare with the US Navy. My journey into cybersecurity is driven by a passion for protecting digital assets that are growing more important to our society every day.
 
-Visit My Website
+[Visit My Website](https://mr-jtlayton.github.io/jason-layton.github.io/)
 
 ## 🛡️ Experience
 - 10 years in signals intelligence and threat detection with the US Navy
@@ -27,7 +27,7 @@ Visit My Website
 - [Certification 2]
 
 ## 🌐 Connect with Me
-- LinkedIn:https://www.linkedin.com/in/jason-layton
+- [LinkedIn]:https://www.linkedin.com/in/jason-layton
 - Email: tannerlayton01@gmail.com
 
 ## 💼 Career Goals
