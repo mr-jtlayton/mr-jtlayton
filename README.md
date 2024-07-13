@@ -18,9 +18,9 @@ Hello, I'm Jason Layton! I'm a cybersecurity enthusiast transitioning from a dec
 - Hold a TS/SCI clearance
 
 ## 🚀 Projects
-- [Project 1]: Brief description
-- [Project 2]: Brief description
-- Home Lab: Detailed setup for cybersecurity experimentation and learning
+- [Write-Ups]: Taking time to document portions of HackTheBox's SOC Analyst Path
+- [Layton Tinkers]: Future Plans for a Personal Computer building service that includes device hardening and user security education
+- [Home Lab]: Detailed setup for cybersecurity experimentation and learning
 
 ## 📜 Certifications
 - Security+ CE (Sec+) CompTIA
