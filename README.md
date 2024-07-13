@@ -24,7 +24,7 @@ Hello, I'm Jason Layton! I'm a cybersecurity enthusiast transitioning from a dec
 
 ## 📜 Certifications
 - Security+ CE (Sec+) CompTIA
-- [Certification 2]
+- [Certification 2 - Coming Soon!]
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/jason-layton)
